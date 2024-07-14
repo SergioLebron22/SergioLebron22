@@ -60,5 +60,5 @@
 <br clear="both">
 
 
-
+![Snake animation](https://raw.githubusercontent.com/SergioLebron22/SergioLebron22/output/github-contribution-grid-snake-dark.svg)
 ###
