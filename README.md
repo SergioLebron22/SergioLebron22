@@ -1,4 +1,4 @@
-<h2 align="left">Hi, My name is Sergio Lebron and welcome to my profile</h2>
+<h2 align="left">Hi! My name is Sergio Lebron and welcome to my profile!</h2>
 
 ###
 
