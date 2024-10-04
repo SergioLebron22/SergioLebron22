@@ -3,6 +3,7 @@
 ###
 <div align="center">
   <img src="https://profile-counter.glitch.me/SergioLebron22/count.svg?"  />
+  <p align="center">Profile views</p>
 </div>
 
 ###
